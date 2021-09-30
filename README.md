@@ -63,8 +63,8 @@ Lecture 7 Homework : Compound Conditions and Nested Statments
 
 
 # Killing Time ppt.19
-//yay i got it right i think
-//7:38PM NICE I GOT IT
+      //yay i got it right i think
+      //7:38PM NICE I GOT IT
   
     #include <iostream>
     using namespace std;
