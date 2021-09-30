@@ -3,14 +3,14 @@ Lecture 7 Homework : Compound Conditions and Nested Statments
 
 # MARK MY WORDS ppt.16
 
-#include <iostream>
-using namespace std;
+        #include <iostream>
+        using namespace std;
 
-int main()
-{
-    int testScore;
-    cout << "Insert score to determine the grade: \n";
-    cin >> testScore;
+        int main()
+        {
+         int testScore;
+            cout << "Insert score to determine the grade: \n";
+             cin >> testScore;
 
 
     if (testScore >= 70 && testScore <= 100) {
@@ -31,16 +31,16 @@ int main()
 
     return 0;
 
-}
+    }
   
 # STARING A BAND ppt.17
 
-#include <iostream>
-#include <string>
-using namespace std;
+        #include <iostream>
+        #include <string>
+        using namespace std;
 
-int main()
-{
+    int main()
+    {
     bool musicFriend = true;
     string friendPlaysgui = "guitar";
     string friendPlaysdru = "drums";
@@ -59,7 +59,7 @@ int main()
         }
     }
 
-}
+    }
 
 
 # Killing Time ppt.19
@@ -69,7 +69,7 @@ int main()
     #include <iostream>
     using namespace std;
     int main()
-{
+    {
     bool bestie = true;
     bool fiveAed = true;
     int time;
