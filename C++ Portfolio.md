@@ -1,7 +1,7 @@
 # Lecture7HW
 Lecture 7 Homework : Compound Conditions and Nested Statments
 
-# MARK MY WORDS ppt.16
+        //MARK MY WORDS ppt.16
 
         #include <iostream>
         using namespace std;
@@ -33,7 +33,7 @@ Lecture 7 Homework : Compound Conditions and Nested Statments
 
     }
   
-# STARING A BAND ppt.17
+        //STARING A BAND ppt.17
 
         #include <iostream>
         #include <string>
@@ -62,7 +62,7 @@ Lecture 7 Homework : Compound Conditions and Nested Statments
     }
 
 
-# Killing Time ppt.19
+      //Killing Time ppt.19
       //yay i got it right i think
       //7:38PM NICE I GOT IT
   
@@ -96,7 +96,7 @@ Lecture 7 Homework : Compound Conditions and Nested Statments
 
 
 
-# Earthquake ppt.20
+    //Earthquake ppt.20
                     
     //practice makes perfect even with 4gb ram
 
