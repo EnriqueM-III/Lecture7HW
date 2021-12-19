@@ -1,8 +1,6 @@
-# Lecture7HW
-Lecture 7 Homework : Compound Conditions and Nested Statments
 
 # Lecture7HW
-Lecture 7 Homework : Compound Conditions and Nested Statments
+Lecture 7 Homework : Compound Conditions and Nested Statements
 
 ## MARK MY WORDS ppt.16
 
