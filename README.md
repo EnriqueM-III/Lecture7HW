@@ -150,4 +150,24 @@ Lecture 7 Homework : Compound Conditions and Nested Statements
     }
     
 
+## Paris
 
+        #include <iostream>
+        using namespace std;
+        int main()
+        {
+    cout << "What is the capital of France?\n";
+    string capital;
+    cin >> capital;
+   
+    if (capital == "Paris" || capital == "paris" || capital == "PARIS")
+    {
+        cout << "Correct!";
+    }
+    else 
+    {
+        cout << "Incorrect";
+    }
+    
+    return 0;
+        }
